@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c9844b14-ac22-4eb6-9f13-1df05d26be90": {
+      "ProjectGuid": "c9844b14-ac22-4eb6-9f13-1df05d26be90",
+      "DisplayName": "Fodbold",
+      "ColorIndex": 0
+    },
+    "3aa3fd6c-119c-4e16-ab3f-47e854c3221d": {
+      "ProjectGuid": "3aa3fd6c-119c-4e16-ab3f-47e854c3221d",
+      "DisplayName": "Opgaven",
+      "ColorIndex": 1
+    },
+    "6bdc8070-49a6-4f71-91eb-7fdaf648af46": {
+      "ProjectGuid": "6bdc8070-49a6-4f71-91eb-7fdaf648af46",
+      "DisplayName": "OpgaveBibliotek",
+      "ColorIndex": 2
+    },
+    "0698d0c3-8a77-4381-b445-0602298452cc": {
+      "ProjectGuid": "0698d0c3-8a77-4381-b445-0602298452cc",
+      "DisplayName": "WinFormsApp1",
+      "ColorIndex": 3
+    },
+    "0a45cadd-a8ca-49c9-8b00-a789143e8e73": {
+      "ProjectGuid": "0a45cadd-a8ca-49c9-8b00-a789143e8e73",
+      "DisplayName": "TestProject1",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}
