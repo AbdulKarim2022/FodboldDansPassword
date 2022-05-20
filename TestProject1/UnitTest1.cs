@@ -19,27 +19,27 @@ namespace TestProject1
             //Act – Handling.
             var result = _class1.WeCheerIfGoalOrPasses("TESSSST", 0);
 
-            //Assert – Påstand.
+            //Assert – Påstand
             Assert.AreEqual("Shh", result);
         }
 
         [Test]
         public void HowHappyAreWeAboutThePasses_PassIsNegativValue_Error_Test()
         {
-            //Act – Handling.
+            
             var result = _class1.WeCheerIfGoalOrPasses("TESSSST", -1);
 
-            //Assert – Påstand.
+            
             Assert.AreEqual("ERROR - Are your team playing backwords???", result);
         }
 
         [Test]
         public void HowHappyAreWeAboutThePasses_PassIstree_HuhHuhHuh_Test()
         {
-            //Act
+            
             var result = _class1.WeCheerIfGoalOrPasses(string.Empty, 3);
 
-            //Assert
+            
             Assert.AreEqual("Huh! Huh! Huh!", result);
         }
 
