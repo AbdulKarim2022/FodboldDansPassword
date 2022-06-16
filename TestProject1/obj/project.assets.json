@@ -3875,11 +3875,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\moual\\source\\repos\\Fodbold\\TestProject1\\TestProject1.csproj",
+      "projectUniqueName": "C:\\Users\\moual\\Source\\Repos\\AbdulKarim2022\\Fodbold\\TestProject1\\TestProject1.csproj",
       "projectName": "TestProject1",
-      "projectPath": "C:\\Users\\moual\\source\\repos\\Fodbold\\TestProject1\\TestProject1.csproj",
+      "projectPath": "C:\\Users\\moual\\Source\\Repos\\AbdulKarim2022\\Fodbold\\TestProject1\\TestProject1.csproj",
       "packagesPath": "C:\\Users\\moual\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\moual\\source\\repos\\Fodbold\\TestProject1\\obj\\",
+      "outputPath": "C:\\Users\\moual\\Source\\Repos\\AbdulKarim2022\\Fodbold\\TestProject1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\moual\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3896,8 +3896,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\moual\\source\\repos\\Fodbold\\OpgaveBibliotek\\OpgaveBibliotek.csproj": {
-              "projectPath": "C:\\Users\\moual\\source\\repos\\Fodbold\\OpgaveBibliotek\\OpgaveBibliotek.csproj"
+            "C:\\Users\\moual\\Source\\Repos\\AbdulKarim2022\\Fodbold\\OpgaveBibliotek\\OpgaveBibliotek.csproj": {
+              "projectPath": "C:\\Users\\moual\\Source\\Repos\\AbdulKarim2022\\Fodbold\\OpgaveBibliotek\\OpgaveBibliotek.csproj"
             }
           }
         }

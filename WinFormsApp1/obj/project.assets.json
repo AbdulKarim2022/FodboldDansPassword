@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\moual\\source\\repos\\Fodbold\\WinFormsApp1\\WinFormsApp1.csproj",
+      "projectUniqueName": "C:\\Users\\moual\\Source\\Repos\\AbdulKarim2022\\Fodbold\\WinFormsApp1\\WinFormsApp1.csproj",
       "projectName": "WinFormsApp1",
-      "projectPath": "C:\\Users\\moual\\source\\repos\\Fodbold\\WinFormsApp1\\WinFormsApp1.csproj",
+      "projectPath": "C:\\Users\\moual\\Source\\Repos\\AbdulKarim2022\\Fodbold\\WinFormsApp1\\WinFormsApp1.csproj",
       "packagesPath": "C:\\Users\\moual\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\moual\\source\\repos\\Fodbold\\WinFormsApp1\\obj\\",
+      "outputPath": "C:\\Users\\moual\\Source\\Repos\\AbdulKarim2022\\Fodbold\\WinFormsApp1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\moual\\AppData\\Roaming\\NuGet\\NuGet.Config",

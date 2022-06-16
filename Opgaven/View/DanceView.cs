@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using OpgaveBibliotek;
+using System.IO;
 
 namespace Opgaven
 {
@@ -13,27 +14,26 @@ namespace Opgaven
 
         public DanceView()
         {
-            _dance = new Dance();
-
             String name;
             int score = 0;
-
-            bool isValid = false;
 
             Console.Clear();
 
             Console.WriteLine("First contestant name: ");
             name = Console.ReadLine();
-
-            GetDanseObject(ref score, ref isValid);
+            Console.WriteLine("First contestant score: ");
+            score = Int32.Parse(Console.ReadLine());
+            
             Dance dancer1 = new Dance(name, score);
 
-            isValid = false;
+            
 
             Console.WriteLine("\nSecond contestant name: ");
             name = Console.ReadLine();
+            Console.WriteLine("Second contestant score: ");
+            score = Int32.Parse(Console.ReadLine());
 
-            GetDanseObject(ref score, ref isValid);
+
             Dance dancer2 = new Dance(name, score);
 
             Dance dancer3 = dancer1 + dancer2;
@@ -43,13 +43,7 @@ namespace Opgaven
             Console.ReadKey();
         }
 
-        private static void GetDanseObject(ref int score, ref bool isValid)
-        {
-            while (!isValid)
-            {
-                Console.WriteLine("Second contestant score: ");
-                isValid = Int32.TryParse(Console.ReadLine(), out score);
-            }
-        }
+
+
     }
 }

@@ -8,14 +8,10 @@ namespace OpgaveBibliotek
 {
     public class Dance
     {
-        public String name;
+        public string name;
         public int score;
 
-        public Dance()
-        {
-        }
-
-        public Dance(String name, int score)
+        public Dance(string name, int score)
         {
             this.name = name;
             this.score = score;

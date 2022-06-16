@@ -6,13 +6,11 @@ using System.Threading.Tasks;
 
 namespace OpgaveBibliotek
 {
-    public class Class1
+    public class Football
     {
         private const string _goal = "mål";
-        public Class1()
-        {
-            
-        }
+
+
 
         private string HowHappyAreWeAboutThePasses(int passes)
         {
@@ -45,5 +43,6 @@ namespace OpgaveBibliotek
         {
             throw new NotImplementedException();
         }
+        
     }
 }

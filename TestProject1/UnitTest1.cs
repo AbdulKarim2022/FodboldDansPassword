@@ -6,12 +6,12 @@ namespace TestProject1
 {
     public class Tests
     {
-        Class1 _class1 = null;
+        Football _class1 = null;
         
         [SetUp]
         public void Setup()
         {
-            _class1 = new Class1();
+            _class1 = new Football();
         }
         [Test]
         public void HowHappyAreWeAboutThePasses_PassIsZero_Shh_Test()

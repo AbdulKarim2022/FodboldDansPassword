@@ -9,3 +9,14 @@ C:\Users\moual\source\repos\Fodbold\Opgaven\bin\Debug\OpgaveBibliotek.pdb
 C:\Users\moual\source\repos\Fodbold\Opgaven\obj\Debug\Opgaven.csproj.CopyComplete
 C:\Users\moual\source\repos\Fodbold\Opgaven\obj\Debug\Opgaven.exe
 C:\Users\moual\source\repos\Fodbold\Opgaven\obj\Debug\Opgaven.pdb
+C:\Users\moual\Source\Repos\AbdulKarim2022\Fodbold\Opgaven\bin\Debug\Opgaven.exe.config
+C:\Users\moual\Source\Repos\AbdulKarim2022\Fodbold\Opgaven\bin\Debug\Opgaven.exe
+C:\Users\moual\Source\Repos\AbdulKarim2022\Fodbold\Opgaven\bin\Debug\Opgaven.pdb
+C:\Users\moual\Source\Repos\AbdulKarim2022\Fodbold\Opgaven\bin\Debug\OpgaveBibliotek.dll
+C:\Users\moual\Source\Repos\AbdulKarim2022\Fodbold\Opgaven\bin\Debug\OpgaveBibliotek.pdb
+C:\Users\moual\Source\Repos\AbdulKarim2022\Fodbold\Opgaven\obj\Debug\Opgaven.csproj.AssemblyReference.cache
+C:\Users\moual\Source\Repos\AbdulKarim2022\Fodbold\Opgaven\obj\Debug\Opgaven.csproj.SuggestedBindingRedirects.cache
+C:\Users\moual\Source\Repos\AbdulKarim2022\Fodbold\Opgaven\obj\Debug\Opgaven.csproj.CoreCompileInputs.cache
+C:\Users\moual\Source\Repos\AbdulKarim2022\Fodbold\Opgaven\obj\Debug\Opgaven.csproj.CopyComplete
+C:\Users\moual\Source\Repos\AbdulKarim2022\Fodbold\Opgaven\obj\Debug\Opgaven.exe
+C:\Users\moual\Source\Repos\AbdulKarim2022\Fodbold\Opgaven\obj\Debug\Opgaven.pdb

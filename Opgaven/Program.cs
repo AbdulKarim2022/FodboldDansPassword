@@ -12,8 +12,7 @@ namespace Opgaven
     {
         static void Main(string[] args)
         {
-            var obj = new ProgramView();
-            obj.RunFootBall();
+            var obj = new MainView();
         }
     }
 }

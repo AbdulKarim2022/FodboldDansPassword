@@ -4,3 +4,9 @@ C:\Users\moual\source\repos\Fodbold\OpgaveBibliotek\obj\Debug\OpgaveBibliotek.cs
 C:\Users\moual\source\repos\Fodbold\OpgaveBibliotek\obj\Debug\OpgaveBibliotek.csproj.CoreCompileInputs.cache
 C:\Users\moual\source\repos\Fodbold\OpgaveBibliotek\obj\Debug\OpgaveBibliotek.dll
 C:\Users\moual\source\repos\Fodbold\OpgaveBibliotek\obj\Debug\OpgaveBibliotek.pdb
+C:\Users\moual\Source\Repos\AbdulKarim2022\Fodbold\OpgaveBibliotek\bin\Debug\OpgaveBibliotek.dll
+C:\Users\moual\Source\Repos\AbdulKarim2022\Fodbold\OpgaveBibliotek\bin\Debug\OpgaveBibliotek.pdb
+C:\Users\moual\Source\Repos\AbdulKarim2022\Fodbold\OpgaveBibliotek\obj\Debug\OpgaveBibliotek.csproj.CoreCompileInputs.cache
+C:\Users\moual\Source\Repos\AbdulKarim2022\Fodbold\OpgaveBibliotek\obj\Debug\OpgaveBibliotek.dll
+C:\Users\moual\Source\Repos\AbdulKarim2022\Fodbold\OpgaveBibliotek\obj\Debug\OpgaveBibliotek.pdb
+C:\Users\moual\Source\Repos\AbdulKarim2022\Fodbold\OpgaveBibliotek\obj\Debug\OpgaveBibliotek.csproj.AssemblyReference.cache

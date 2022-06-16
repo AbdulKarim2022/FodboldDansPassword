@@ -29,14 +29,12 @@ namespace Opgaven.View
             Console.WriteLine("Is there a goal");
             var goal = Console.ReadLine();
 
-            var foodball = new DanceView();
+            var foodball = new Football();
 
             
-            DanceView foodball2 = foodball;
+            Football foodball2 = foodball;
 
             var result = foodball2.WeCheerIfGoalOrPasses(goal, passes);
-
-            Console.WriteLine(result);
             Console.ReadKey();
         }
     }
